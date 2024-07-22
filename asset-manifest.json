@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Emotions/static/css/main.7e3aa1f8.css",
-    "main.js": "/Emotions/static/js/main.0275fc00.js",
-    "static/js/453.97b57a6f.chunk.js": "/Emotions/static/js/453.97b57a6f.chunk.js",
+    "main.js": "/Emotions/static/js/main.6e498919.js",
+    "static/js/453.a0c433af.chunk.js": "/Emotions/static/js/453.a0c433af.chunk.js",
     "static/media/gamesound.mp3": "/Emotions/static/media/gamesound.9bea70042c1dd8268596.mp3",
     "static/media/space.png": "/Emotions/static/media/space.109a22b7d63af6704c36.png",
     "static/media/background.gif": "/Emotions/static/media/background.810b3e2899bc8a8d7440.gif",
@@ -37,11 +37,11 @@
     "static/media/6.png": "/Emotions/static/media/6.c941b566c5fced84bf9b.png",
     "index.html": "/Emotions/index.html",
     "main.7e3aa1f8.css.map": "/Emotions/static/css/main.7e3aa1f8.css.map",
-    "main.0275fc00.js.map": "/Emotions/static/js/main.0275fc00.js.map",
-    "453.97b57a6f.chunk.js.map": "/Emotions/static/js/453.97b57a6f.chunk.js.map"
+    "main.6e498919.js.map": "/Emotions/static/js/main.6e498919.js.map",
+    "453.a0c433af.chunk.js.map": "/Emotions/static/js/453.a0c433af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e3aa1f8.css",
-    "static/js/main.0275fc00.js"
+    "static/js/main.6e498919.js"
   ]
 }
