@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.9a827b92.css",
-    "main.js": "./static/js/main.094454f4.js",
+    "main.css": "./static/css/main.9e594255.css",
+    "main.js": "./static/js/main.5660ed0d.js",
     "static/js/453.9f0ecc88.chunk.js": "./static/js/453.9f0ecc88.chunk.js",
     "static/media/gamesound.mp3": "./static/media/gamesound.9bea70042c1dd8268596.mp3",
     "static/media/space.png": "./static/media/space.109a22b7d63af6704c36.png",
     "static/media/background.gif": "./static/media/background.810b3e2899bc8a8d7440.gif",
     "static/media/enemy7.mp3": "./static/media/enemy7.3af34384e6da39ca1f28.mp3",
     "static/media/enemy11.mp3": "./static/media/enemy11.ed00adf816e54d650a2e.mp3",
+    "static/media/points.png": "./static/media/points.8efa9dc7a860bc15a56b.png",
+    "static/media/super.png": "./static/media/super.ada20e6abc88067accd6.png",
     "static/media/enemy1.mp3": "./static/media/enemy1.ea4894d6333b4aed3144.mp3",
     "static/media/enemy10.mp3": "./static/media/enemy10.05f1a36086fe9f1842e0.mp3",
     "static/media/enemy5.mp3": "./static/media/enemy5.e83cc43b618169d90dbc.mp3",
@@ -18,6 +20,7 @@
     "static/media/enemy13.mp3": "./static/media/enemy13.b14e61f726a29f73eaf8.mp3",
     "static/media/enemy9.mp3": "./static/media/enemy9.394412f25f786b499ca0.mp3",
     "static/media/enemy3.mp3": "./static/media/enemy3.c6763e065216841ceb45.mp3",
+    "static/media/time.png": "./static/media/time.3eb1a7b4b7e54e84e763.png",
     "static/media/7.png": "./static/media/7.84ac81ef64b4b5c7a306.png",
     "static/media/3.png": "./static/media/3.69fc2d1d3dd75f161715.png",
     "static/media/4.png": "./static/media/4.912ac96e902110e15a69.png",
@@ -32,16 +35,17 @@
     "static/media/1.png": "./static/media/1.26d286b7d9b800abaddb.png",
     "static/media/news.png": "./static/media/news.2bd8b28cc378c388dfc8.png",
     "static/media/destroyer.gif": "./static/media/destroyer.c05d7fc41bb40041576b.gif",
+    "static/media/blackwhole.jpg": "./static/media/blackwhole.fd9ead9621ac66b58698.jpg",
     "static/media/enemy12.mp3": "./static/media/enemy12.41d1ccbef9d92abdbdaf.mp3",
     "static/media/pusher.gif": "./static/media/pusher.30d81627390a3360f0e6.gif",
     "static/media/6.png": "./static/media/6.c941b566c5fced84bf9b.png",
     "index.html": "./index.html",
-    "main.9a827b92.css.map": "./static/css/main.9a827b92.css.map",
-    "main.094454f4.js.map": "./static/js/main.094454f4.js.map",
+    "main.9e594255.css.map": "./static/css/main.9e594255.css.map",
+    "main.5660ed0d.js.map": "./static/js/main.5660ed0d.js.map",
     "453.9f0ecc88.chunk.js.map": "./static/js/453.9f0ecc88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a827b92.css",
-    "static/js/main.094454f4.js"
+    "static/css/main.9e594255.css",
+    "static/js/main.5660ed0d.js"
   ]
 }
